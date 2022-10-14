@@ -7,5 +7,5 @@ Projeto criado durante a participação do Curso na alura: Lógica de programaç
 Utilize as setas "Up" e "Down" para controlar a raquete da Esquerda e impedir que a bolinha branca toque a borda
 
 <p align="center">
-    <img width="460" heigth="300" src="src/assest/to_readme/pingPogSimon.gif">
+    <img width="460" heigth="300" src="src/assets/to_readme/pingPongSimon.gif">
 </p>
